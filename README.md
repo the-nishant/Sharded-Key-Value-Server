@@ -1,4 +1,4 @@
-# 6.824 Lab 4: Sharded Key/Value Service (Spring 2020)
+# 6.824 Lab 4: Sharded Key/Value Service (Spring 2022)
 
 ## 🧠 Overview
 This project implements a **fault-tolerant, sharded key/value storage system** using the **Raft consensus algorithm** for replication and consistency.  
